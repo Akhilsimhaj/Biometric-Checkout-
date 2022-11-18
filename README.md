@@ -4,13 +4,14 @@
 will be considered as new era?
 
 
-![intro](https://user-images.githubusercontent.com/117138832/202776714-e7e5ea74-676b-4a7e-b5d3-b0d662bcc737.jpg)
+![asdf](https://user-images.githubusercontent.com/117138832/202778367-7bc7195f-51c9-4fa7-8696-a3b7e020948d.jpg)
 
 
 
 
 
-Contactless payments surged during the pandemic, but digital wallets may not be the default for much longer. In May, Mastercard launched a pilot of its Biometric Checkout Program, which allows shoppers to pay just by displaying their face or fingers. A collaboration with tech firm Payface and Brazilian food retailer St Marche, the project brings facial and fingerprint recognition to point-of-sale at five grocery stores in São Paulo. Users link their biometrics to a payment card via a mobile app, then can smile at a checkout camera or wave their hand over a scanner to pay. “The way we pay needs to keep pace with the way we live, work and do business,” Mastercard President of Cyber and Intelligence Ajay Bhalla says. The project makes Mastercard an early mover in biometric payments, but it’s just the start: The company has unveiled plans for similar pilots in the Middle East and Asia.
+
+Contactless payments surged during the pandemic, but digital wallets may not be the default for much longer. In May, Mastercard launched a pilot of its Biometric Checkout Program, which allows shoppers to pay just by displaying their face or fingers. A collaboration with tech firm Payface and Brazilian food retailer St Marche, the project brings facial and fingerprint recognition to point-of-sale at five grocery stores in São Paulo. Users link their biometrics to a payment card via a mobile app, then can smile at a checkout camera or wave their hand over a scanner to pay. “The way we pay needs to keep pace with the way we live, work and do business,” Mastercard President of Cyber and Intelligence Ajay Bhalla says. The project makes Mastercard an early mover in biometric payments, but it’s just the start: The company has unveiled plans for similar pilots in the Middle East and Asia. 
 
 
 Mastercard unleashes new era 
